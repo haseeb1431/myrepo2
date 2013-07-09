@@ -1,1 +1,2 @@
 -e "Line1\nLin2" 
+"line3&" 
